@@ -1,11 +1,11 @@
-site_name: MkDocs Tercen Template
+site_name: Immunophenotyping Guide
 docs_dir: docs/
 site_url: https://tercen.com
-repo_url: https://github.com/tercen/mkdocs_template
-repo_name: tercen/mkdocs_template
+repo_url: https://github.com/tercen/immunophenotyping_guide
+repo_name: tercen/immunophenotyping_guide
 edit_uri: edit/main/docs/
 site_author: "Tercen Authors"
-site_description: "Documentation template for modification."
+site_description: "Documentation for using the Flow Immunophenotyping templates."
 use_directory_urls: true
 
 copyright: Copyright &copy; 2024 Tercen
@@ -44,7 +44,7 @@ extra_css:
 plugins:
   - search
   - git-committers:
-      repository: tercen/mkdocs_template
+      repository: tercen/immunophenotyping_guide
       branch: main
   - git-revision-date-localized:
       enable_creation_date: true
@@ -105,22 +105,5 @@ extra:
     provider: mike
 # Tercen simplified nav style
 nav:
-  - Introduction: index.md
-#  - User Management: user_management.md
-#  - Migrate Operators: migrate_operators.md
-#  - Upgrade Server: upgrade_server.md
-#  - Update the Main Library: update_library.md
-
-# Example of nested nav style
-#nav:
-#  - Home: index.md
-#  - Getting started:
-#      - Guidelines: intro_guidelines.md
-#      - Getting started:
-#          - Core concepts: getting-started_core-concepts.md
-#          - Setting up Tercen Studio:    getting-started_setup-tercen-studio.md
-#      - R Operator development:
-#          - General workflow: operator-dev_intro.md
-#          - "Walkthrough example: R operator": operator-dev_create.md
-#          - Deploying an R operator:   operator-dev_deploy.md
-#          - Improving an operator:   operator-dev_improve.md
+  - Tutorial:
+      - Introduction: index.md
