@@ -1,4 +1,3 @@
-# Introduction
+# Flow Immunophenotyping Guide
 
-## Topics covered in this guide.
-- Using the Flow Immunophenotyping Template.
+link to guide here.
