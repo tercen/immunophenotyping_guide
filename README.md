@@ -66,9 +66,10 @@ The top level of the hierarchy (Introduction & Tutorial) is displayed in tabs in
 Subsequent indents become the right sidebar navigation of a Tab.
 An In-page navigation is generated in the left sidebar from the markdown headings in the document.
 
-```nav:
-  - Introduction: index.md
+```
+ nav:
   - Tutorial:
+      - Introduction: index.md
       - Create a Project: create_a_project.md
       - Upload Data: upload_data.md
       - Basic Analysis - Workflow: workflow.md
@@ -77,7 +78,8 @@ An In-page navigation is generated in the left sidebar from the markdown heading
       - Export a Data Table: export_data.md
       - Perform a Gather: gather.md
       - Apply a Filter: filter.md
-      - Collaboration Tips: collaborate.md
+      - Collaboration Tips: collaborate.mdnav:
+
 ```
 
 ---
