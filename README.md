@@ -12,7 +12,8 @@ Manual changes to be made to the new repository.
 
 Change the following to what is relevant to the new repository. Replace the "administrators_guide" below references.
 
-```site_name:  Tercen Administrators Guide
+```
+site_name:  Tercen Administrators Guide
 repo_url:   https://github.com/tercen/administrators_guide
 repo_name:  tercen/administrators_guide
 site_description: Tercen documentation for administrator functions.
