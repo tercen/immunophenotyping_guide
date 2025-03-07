@@ -6,7 +6,7 @@ We will set up browser tabs to review how they impact the visualisations.
 
 ## Clone the workflow
 
-![Screenshot](docs/images/2_clone_workflow.jpg)
+![Screenshot](images/2_clone_workflow.jpg)
 
 In order to compare our changes to the original we will clone the workflow.
 

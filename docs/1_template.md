@@ -12,8 +12,6 @@ This chapter will use pre-prepared data (FCS files and an annotation file) to de
 
 ![Screenshot](images/1_New_Project.jpg)
 
-![Screenshot](img/1_New_Project.jpg)
-
 Click the New **Project** Button.
 
 Name it "Immunophenotyping Guide"
@@ -22,13 +20,13 @@ Press OK.
 
 ## New workflow
 
-![Screenshot](docs/images/1_Begin_Analysis.jpg)
+![Screenshot](images/1_Begin_Analysis.jpg)
 
 To begin an analysis click **New Workflow**
 
 Choose - **Flow Immunophenotyping - Phenograph**
 
-![Screenshot](docs/images/1_choose_template.jpg)
+![Screenshot](images/1_choose_template.jpg)
 
 Press Ok
 
@@ -43,7 +41,7 @@ It has sections to perform different functions.
 - Analysis algorithms for clustering and dimension reduction.
 - Reports
 
-![Screenshot](docs/images/1_workflow.jpg)
+![Screenshot](images/1_workflow.jpg)
 
 Press **Run All** to begin analysis
 
@@ -55,7 +53,7 @@ Use the *Main Library* and *flow cytometry* tags to narrow down the selection.
 
 Choose ***OMIP=-69 - FCS Files (10k Events).zip***
 
-![Screenshot](docs/images/1_fcs_files.jpg)
+![Screenshot](images/1_fcs_files.jpg)
 
 Press OK.
 
@@ -63,7 +61,7 @@ This Template uses an annotation file to describe treatment conditions.
 
 Use the Tags and search bar to find and select ***OMIP-069 - Sample Annotation.txt***
 
-![Screenshot](docs/images/1_annotation.jpg)
+![Screenshot](images/1_annotation.jpg)
 
 Press OK.
 

@@ -38,7 +38,7 @@ The view panel will open.
 
 Choose **Clustering: Phenograph**
 
-![Screenshot](docs/images/3_Clustering_phenograph.jpg)
+![Screenshot](images/3_Clustering_phenograph.jpg)
 
 A data step will open.
 
@@ -46,7 +46,7 @@ Press **Reset** to allow modification.
 
 Open the **Settings Panel** by clicking the tab.
 
-![Screenshot](docs/images/3_phenograph.jpg)
+![Screenshot](images/3_phenograph.jpg)
 
 ### k value
 
@@ -86,7 +86,7 @@ Open the **Settings Panel** by clicking the tab.
 
 Two settings influence how clumped together or separated the clusters are in the visualisation.
 
-![Screenshot](docs/images/3_UMAP.jpg)
+![Screenshot](images/3_UMAP.jpg)
 
 ### Spread
 
@@ -118,7 +118,7 @@ Prese **Reset** to allow modification.
 
 In the settings tab.
 
-![Screenshot](docs/images/3_UMAP_plot.jpg)
+![Screenshot](images/3_UMAP_plot.jpg)
 
 Change title to "UMAP Marker - Jet"
 

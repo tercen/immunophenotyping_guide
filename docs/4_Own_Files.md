@@ -14,7 +14,7 @@ To make your own annotation file open the Flow **Immunophenotyping - PhenoGraph*
 
 Select the OMIP-069 - Sample Annotation and edit it using the local toolbar.
 
-![Screenshot](docs/images/1_local_toolbar.jpg)
+![Screenshot](images/1_local_toolbar.jpg)
 
 The annotation file is made up of two columns.
 
@@ -23,7 +23,7 @@ The annotation file is made up of two columns.
 
 Press the **Download** button
 
-![Screenshot](docs/images/4_annotation_download.jpg)
+![Screenshot](images/4_annotation_download.jpg)
 
 When the file downloads open it in your spreadsheet program (e.g Excel).
 
