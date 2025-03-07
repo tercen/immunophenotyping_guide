@@ -1,4 +1,4 @@
-# How to Run the immunophenotyping template
+# How to use the template
 
 This tutorial explains how to start a project and run the immunophenotyping template.
 
@@ -10,7 +10,9 @@ This chapter will use pre-prepared data (FCS files and an annotation file) to de
 
 ## Create a project
 
-![Screenshot](docs/images/1_New_Project.jpg)
+![Screenshot](images/1_New_Project.jpg)
+
+![Screenshot](img/1_New_Project.jpg)
 
 Click the New **Project** Button.
 
