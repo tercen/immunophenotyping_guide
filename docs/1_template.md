@@ -1,6 +1,6 @@
 # How to Run the immunophenotyping template
 
-This tutorial explains how to start a project and run the immunophenotyping template, 
+This tutorial explains how to start a project and run the immunophenotyping template.
 
 Templates are pre-defined workflows that are saved into Tercen for quick loading.
 
@@ -69,24 +69,49 @@ The workflow will being analysis and will show a spinning icon on the step is is
 
 When a step has finished it will display a Green Dot.
 
-When the workflow has completed all analysis **Save** the workflow.
+When the workflow has completed all analysis blocks **Save** the workflow.
 
 ## Report Tab
 
-Data Pre-processing:
-Read FCS - An overview of the main data in the files which were uploaded.
-Channel Names and descriptions
-Event Count
-Marker Distribution (logicle)
-Marker Distribution (z value)
+Click the report tab to open the analysis results.
 
+![Screenshot](docs/images/1_report_tab.jpg)
 
----
+*Note: Graphs can be enlarged on screen by clicking on them.*
 
-## Examine the data
+Each analysis block in the workflow will generate multiple results.
 
-![Screenshot](docs/images/1_local_toolbar.jpg)
+### Data Pre-processing
 
-Click a step to bring up the local toolbar.
+- Read FCS (information on the files, channels and events).
+- Channel Names and descriptions.
+- Event Count.
+- Marker Distribution (logicle).
+- Marker Distribution (z value).
 
-Select **Edit**.
+### Clustering and Dimension Reduction
+
+- View Clusters on UMAP.
+- UMAP coloured by file.
+- UMAP coloured by condition.
+- UMAP vs. Marker Expression.
+
+### Cluster Interpretation
+
+- Ordered enrichment heatmap.
+- Cluster markers.
+- Cluster profiles.
+
+### Differential Analysis
+
+- Cluster proportions per sample.
+- Cluster proportions across conditions.
+- UMAP across conditions.
+
+### Export
+
+- Export Report as PDF
+- Export Report as Power Point Slides
+- Export FCS files with UMAP and Clusters
+
+*NB: Individual graphs or tables can be downloaded by clicking the link below them.*
