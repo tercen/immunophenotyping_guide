@@ -108,6 +108,6 @@ nav:
   - Tutorial:
       - Introduction: index.md
       - Create a Project: 1_template.md
-      - Adjust Settings: 2_Adjust_Settings.md
-      - Clustering: 3_Adjust_Clustering.md
-      - Own Files: 4_Own_Files.md
+      - Data Settings: 2_Adjust_Settings.md
+      - Cluster Settings: 3_Adjust_Clustering.md
+      - Using Your Own Files: 4_Own_Files.md

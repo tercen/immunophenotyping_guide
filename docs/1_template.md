@@ -75,7 +75,7 @@ When the workflow has completed all analysis blocks **Save** the workflow.
 
 Click the report tab to open the analysis results.
 
-![Screenshot](docs/images/1_report_tab.jpg)
+![Screenshot](images/1_report_tab.jpg)
 
 *Note: Graphs can be enlarged on screen by clicking on them.*
 
