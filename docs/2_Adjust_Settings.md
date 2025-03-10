@@ -32,6 +32,8 @@ Now you can change tabs on your browser to compare changes.
 
 ## Adjust Channels in the analysis
 
+![Screenshot](images/2_select_view.jpg)
+
 Select the **Analysis Settings Changed** workflow on your browser tab.
 
 Double Click the **Data pre-processing** box.
@@ -44,33 +46,41 @@ A data step will open.
 
 ### Remove a Channel
 
-Press the Reset button to allow us to modify settings.
+![Screenshot](images/2_filter_channels.jpg)
 
-Click the chevron on the filters section and select Exclude QC channels.
+Press the **Reset** button to allow us to modify settings.
 
-This filter is a list of all channels currently excluded from the analysis.
+Hover on the **Filters** drop zone with your mouse, the list of existing filters will appear.
 
-To Remove a channel from the analysis we add it to the exclusion list.
+Select *Exclude QC channels*.
 
-Press the plus button.
+Exclude QC channels is a filter that excludes channels from the analysis.
+
+To remove a channel from the analysis we add it to the exclusion list.
+
+We will exclude CD38
+
+Press the **plus (+)** button.
 
 A new line will be created.
 
-Change the *NaN* value to **CD38**
+- Factor = Channel_description.
+- Logic = equals.
+- Definition = CD38.
 
-### Add a Channel
+*Note: You can click the search icon beside a line to look up an=y available values in the filter definition.*
 
-To add an excluded channel into our analysis remove it from this list.
-
-For the **FSC-A** line.
-
-Press the minus button.
+To reverse an exclusion and add the channel back into the analysis click the minus button to remove the line.
 
 Press OK.
 
 Press Save.
 
 Return to **Analysis Settings Changed** workflow using the Breadcrumb.
+
+You will notice the green dots have disappeared from the analysis steps. Tercen knows the changes to the filters will affect downstream calculations so has reset them.
+
+We will not re-run the workflow just yet. Instead we will down-sample our data.
 
 ## Downsampling
 
@@ -80,7 +90,7 @@ Downsampling can give you a quick analysis result by processing less data. Usefu
 
 Downsampling can also balance an analysis across samples which do not have the same number of data points.
 
-From the Analysis Settings Changed workflow
+Working From the Analysis Settings Changed workflow.
 
 Double Click the **Data pre-processing** box.
 
@@ -90,23 +100,29 @@ Choose **Channel Selection and Downsampling**
 
 The data step will open again.
 
+*Note: The data step should be already reset from our last exercise but press the reset button if it is visible.*
+
 Press the Reset button to allow us to modify settings.
 
 Downsampling is controlled by two types of filter.
 
-Choose the filter that best represents your needs.
+One reduces based on events and the other based on percentage.
+
+Normally only one of these needs to be adjusted. Choose the filter that best represents your needs.
 
 ### Downsampling # Events
 
 This is a whole number setting for the maximum events to be included from each file.
 
-Files with less events than this setting will have all events included and files with more will be restricted.
+Files with less events than the setting will have all events included and files with more will be restricted.
 
 To modify.
 
 Click the chevron on the filters section and select **Downsampling # Events**.
 
-Change the value to **1000**
+Change the value to **5000**
+
+![Screenshot](images/2_downsampling_events.jpg)
 
 ### Downsampling Percentage
 
@@ -126,6 +142,8 @@ Click the chevron on the filters section and select **Downsampling Percentage**.
 
 Change the value to **40**
 
+![Screenshot](docs/images/2_downsampling_percentage.jpg)
+
 ## Re-Run the Workflow
 
 Press OK.
@@ -137,6 +155,8 @@ Return to **Analysis Settings Changed** workflow using the Breadcrumb
 Press **Run All**
 
 ## Compare changes
+
+Press Save on the workflow
 
 Using the tabs on your browser open the report window in both workflows.
 
