@@ -142,7 +142,7 @@ Click the chevron on the filters section and select **Downsampling Percentage**.
 
 Change the value to **40**
 
-![Screenshot](docs/images/2_downsampling_percentage.jpg)
+![Screenshot](images/2_downsampling_percentage.jpg)
 
 ## Re-Run the Workflow
 
@@ -160,4 +160,6 @@ Press Save on the workflow
 
 Using the tabs on your browser open the report window in both workflows.
 
-Compare **Channel names and descriptions** and **Event Count (filtered data)**.
+Compare **Event Count (filtered data)**.
+
+![Screenshot](images/2_comparison.jpg)
