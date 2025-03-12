@@ -110,7 +110,7 @@ nav:
       - Create a Project: 1_template.md
       - Downsampling: 2_1_Downsample.md
       - Adjust Channels: 2_2_Remove Channels.md
-      - Cluster Settings: 3_Adjust_Clustering.md
-      - UMAP: 3_2_Adjust_UMAP.md
+      - Cluster Settings: 3_1_Adjust_Clustering.md
+      - UMAP Settings: 3_2_Adjust_UMAP.md
       - Adjust Graphs: 3_3_Change_Plots.md
       - Using Your Own Files: 4_Own_Files.md
