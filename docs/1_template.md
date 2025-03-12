@@ -20,7 +20,7 @@ Press OK.
 
 ## New workflow
 
-![Screenshot](images/1_Begin_Analysis.jpg)
+![Screenshot](images/1_Begin Analysis.jpg)
 
 To begin an analysis click **New Workflow**
 

@@ -12,24 +12,22 @@ This can be done in your file browser or with a compression app such as 7.zip.
 
 To make your own annotation file open the Flow **Immunophenotyping - PhenoGraph** workflow in the tutorial project.
 
-Select the OMIP-069 - Sample Annotation and edit it using the local toolbar.
+Open your spreadsheet program (e.g Excel)
 
-![Screenshot](images/1_local_toolbar.jpg)
-
-The annotation file is made up of two columns.
+Name two columns as follows.
 
 - filename
 - Condition
 
-Press the **Download** button
+Populate the **filename** column with the names of each of your FCS files.
 
-![Screenshot](images/4_annotation_download.jpg)
+Populate the **Condition** column with labels relevant to your analysis. (such as "Control" and "Treatment")
 
-When the file downloads open it in your spreadsheet program (e.g Excel).
+![Screenshot](images/4_make_annotation.jpg)
 
-Change the filenames to match your FCS files and set the relevant condition for that file.
+Save your spreadsheet as an Excel file.
 
-Save your changes and rename your file to something appropriate.
+Give it an appropriate name.
 
 ## Create a new project
 
@@ -39,7 +37,9 @@ Upload the ZIP file with **Upload File** button
 
 Upload the Annotation file using the **Import Data** button.
 
-Choose the CSV importer
+Choose the Excel importer
+
+![Screenshot](images/4_uploads.jpg)
 
 ### Run the Template
 
