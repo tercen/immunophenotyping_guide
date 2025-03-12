@@ -20,7 +20,7 @@ Two settings influence how clumped together or separated the clusters are in the
 
 ![Screenshot](images/3_UMAP.jpg)
 
-### Spread
+## Spread
 
 Set spread to 2
 
