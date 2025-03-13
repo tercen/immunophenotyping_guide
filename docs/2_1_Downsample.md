@@ -22,7 +22,8 @@ Click **Next** to select the team.
 
 Click **Next** to select the project.
 
-*Note: If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.*
+>:bulb:
+If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.
 
 Rename the workflow to "Analysis Settings Changed".
 
@@ -48,7 +49,8 @@ Choose **Channel Selection and Downsampling**
 
 The data step will open again.
 
-*Note: The data step should be already reset from our last exercise but press the reset button if it is visible.*
+>:bulb:
+The data step should be already reset from our last exercise but press the reset button if it is visible.
 
 Downsampling is controlled by two types of filter.
 

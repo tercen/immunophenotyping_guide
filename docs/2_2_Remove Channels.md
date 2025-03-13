@@ -38,16 +38,17 @@ Press the **plus (+)** button.
 
 A new line will be created.
 
-- Factor = Channel_description.
+- Factor = channel_description.
 - Logic = equals.
 - Definition = CD38.
 
-*Note: You can click the search icon beside a line to look up any available values in the filter definition.*
+>:bulb:
+You can click the search icon beside a line to look up any available values in the filter definition.
+
+Press OK.
 
 >:bulb:
 To reverse an exclusion and add the channel back into the analysis click the minus button to remove the line.
-
-Press OK.
 
 Press Save.
 

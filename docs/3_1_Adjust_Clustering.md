@@ -12,7 +12,8 @@ Click **Next** to select the team.
 
 Click **Next** to select the project.
 
-*Note: If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.*
+>:bulb:
+If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.
 
 Rename the workflow to "Cluster Settings".
 

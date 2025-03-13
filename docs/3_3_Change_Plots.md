@@ -10,7 +10,7 @@ Double Click the **Clustering and Dimension Reduction** box.
 
 The view panel will open.
 
-Choose **UMAP vs. Marker Expression**
+Choose **UMAP vs. Marker Expression**.
 
 Prese **Reset** to allow modification.
 

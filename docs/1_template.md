@@ -79,7 +79,8 @@ Click the report tab to open the analysis results.
 
 ![Screenshot](images/1_report_tab.jpg)
 
-*Note: Graphs can be enlarged on screen by clicking on them.*
+>:bulb:
+Graphs can be enlarged on screen by clicking on them.
 
 Each analysis block in the workflow will generate multiple results.
 
@@ -116,4 +117,5 @@ Each analysis block in the workflow will generate multiple results.
 - Export Report as Power Point Slides.
 - Export FCS files with UMAP and Clusters.
 
-*NB: Individual graphs or tables can be downloaded by clicking the link below them.*
+>:bulb:
+Individual graphs or tables can be downloaded by clicking the link below them.

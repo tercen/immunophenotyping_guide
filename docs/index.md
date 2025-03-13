@@ -10,7 +10,8 @@ This tutorial explains how to perform immunophenotyping using Flow Cytometry dat
 - Optimising population clusters.
 - Working with your own files.
 
-_Note: Right click on a screenshot and open in a new tab to see a High Res version._
+>:bulb:
+Right click on a screenshot and open in a new tab to see a High Res version.
 
 ## Preparation
 

@@ -43,7 +43,7 @@ Choose the Excel importer.
 
 ### Run the Template
 
-Follow the **New Workflow** procedure as per Chapter How To.[Create a Project](https://tercen.github.io/immunophenotyping_guide/pre-release/1_template/)
+Follow the **New Workflow** procedure as per Chapter [Create a Project](https://tercen.github.io/immunophenotyping_guide/pre-release/1_template/).
 
 Be sure to select the **Flow Immunophenotyping - PhenoGraph** template.
 

@@ -1,6 +1,6 @@
 # UMAP
 
-UMAP (Uniform Manifold Approximation and Projection) is a nonlinear dimensionality reduction technique that preserves global and local structures, making it useful for visualizing high-dimensional data.
+UMAP (Uniform Manifold Approximation and Projection) is a nonlinear dimensionality reduction technique that preserves global and local structures, making it useful for visualising high-dimensional data.
 
 ## Open the Filter
 
@@ -8,7 +8,7 @@ Double Click the **Clustering and Dimension Reduction** box.
 
 The view panel will open.
 
-Choose **Dimension Reduction: UMAP**
+Choose **Dimension Reduction: UMAP**.
 
 A data step will open.
 
@@ -28,6 +28,7 @@ Set spread to 2.
 
 Set min-dist to 0.75.
 
-*Note: UMAP also uses a seed to control randomness. You can perform the same stability checks for UMAP with this setting.
+>:bulb:
+UMAP also uses a seed to control randomness. You can perform the same stability checks for UMAP with this setting.
 
 Press **Save**.
