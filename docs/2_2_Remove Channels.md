@@ -1,6 +1,6 @@
 # Adjusting Channels
 
-Tercen uses filters to control which channels are included in an analysis. The Immunophenotyping workflow is built to exclude the channels typically not used in Flow Cytometry analysis.
+Tercen uses filters to control which instrument measurements are included in an analysis. This immunophenotyping workflow is built to exclude measurements that are typically not used in Flow Cytometry analysis (such as Time and Scatter).
 
 To further exclude uninteresting channels follow this procedure.
 
@@ -14,7 +14,7 @@ Double Click the **Data pre-processing** box.
 
 The view panel will open.
 
-Choose **Channel Selection and Downsampling**
+Choose **Channel Selection and Downsampling**.
 
 A data step will open.
 
@@ -32,7 +32,7 @@ Exclude QC channels is a filter that excludes channels from the analysis.
 
 To remove a channel from the analysis we add it to the exclusion list.
 
-We will exclude CD38
+We will exclude CD38.
 
 Press the **plus (+)** button.
 
@@ -63,13 +63,13 @@ Press OK.
 
 Press Save.
 
-Return to **Analysis Settings Changed** workflow using the Breadcrumb
+Return to **Analysis Settings Changed** workflow using the Breadcrumb.
 
-Press **Run All**
+Press **Run All**.
 
 ## Compare changes
 
-Press Save on the workflow
+Press Save on the workflow.
 
 Using the tabs on your browser open the report window in both workflows.
 

@@ -12,12 +12,12 @@ This can be done in your file browser or with a compression app such as 7.zip.
 
 To make your own annotation file open the Flow **Immunophenotyping - PhenoGraph** workflow in the tutorial project.
 
-Open your spreadsheet program (e.g Excel)
+Open your spreadsheet program (e.g Excel).
 
 Name two columns as follows.
 
-- filename
-- Condition
+- filename.
+- Condition.
 
 Populate the **filename** column with the names of each of your FCS files.
 
@@ -33,17 +33,17 @@ Give it an appropriate name.
 
 Follow the procedure in Chapter 1 to create a new project.
 
-Upload the ZIP file with **Upload File** button
+Upload the ZIP file with **Upload File** button.
 
 Upload the Annotation file using the **Import Data** button.
 
-Choose the Excel importer
+Choose the Excel importer.
 
 ![Screenshot](images/4_uploads.jpg)
 
 ### Run the Template
 
-Follow the **New Workflow** procedure as per Chapter 1.
+Follow the **New Workflow** procedure as per Chapter How To.[Create a Project](https://tercen.github.io/immunophenotyping_guide/pre-release/1_template/)
 
 Be sure to select the **Flow Immunophenotyping - PhenoGraph** template.
 

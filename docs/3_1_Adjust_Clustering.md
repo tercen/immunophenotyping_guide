@@ -6,21 +6,21 @@ This chapter explains the settings that control the clusters found by the Phenog
 
 Take another copy of the original workflow.
 
-Press the Clone Button
+Press the Clone Button.
 
 Click **Next** to select the team.
 
-Click **Next** to select the project
+Click **Next** to select the project.
 
 *Note: If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.*
 
 Rename the workflow to "Cluster Settings".
 
-Press OK
+Press OK.
 
 Right click the Immunophenotyping Guide link in the breadcrumb.
 
-Select "Open in a new Tab"
+Select "Open in a new Tab".
 
 Click the **Flow Immunophenotyping - Phenograph** link to open it.
 
@@ -36,7 +36,7 @@ Double Click the **Clustering and Dimension Reduction** box.
 
 The view panel will open.
 
-Choose **Clustering: Phenograph**
+Choose **Clustering: Phenograph**.
 
 ![Screenshot](images/3_Clustering_phenograph.jpg)
 
@@ -58,7 +58,7 @@ A higher value means larger clusters.
 
 A lover value means smaller clusters.
 
-Set **k** to 15
+Set **k** to 15.
 
 ### Seed
 
@@ -68,4 +68,4 @@ By re-running the algorithm with different seed values you can test how reliably
 
 Set **seed** to 29.
 
-*We will adjust UMAP setting before checking the results of our changes*
+*We will adjust UMAP setting before checking the results of our changes.*

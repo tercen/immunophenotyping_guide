@@ -18,4 +18,4 @@ This guide assumes you have a basic knowledge of how to navigate Tercen and use 
 
 It is recommended that you complete the Tercen Starter Guide before attempting to follow this tutorial.
 
-Follow this link to the Tercen [Starter Guide](https://tercen.github.io/starter_guide/)
+Follow this link to the Tercen [Starter Guide](https://tercen.github.io/starter_guide/).

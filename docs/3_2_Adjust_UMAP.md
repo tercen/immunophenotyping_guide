@@ -22,11 +22,11 @@ Two settings influence how clumped together or separated the clusters are in the
 
 ## Spread
 
-Set spread to 2
+Set spread to 2.
 
 ## min-dist
 
-Set min-dist to 0.75
+Set min-dist to 0.75.
 
 *Note: UMAP also uses a seed to control randomness. You can perform the same stability checks for UMAP with this setting.
 

@@ -16,21 +16,21 @@ We will set up browser tabs to review how they impact the visualisations.
 
 In order to compare our changes to the original we will clone the workflow.
 
-Press the Clone Button
+Press the Clone Button.
 
 Click **Next** to select the team.
 
-Click **Next** to select the project
+Click **Next** to select the project.
 
 *Note: If you have followed this tutorial you should not have to change the automatic suggestions. Be aware that if you created this tutorial into a Team then you may have to change selections here.*
 
 Rename the workflow to "Analysis Settings Changed".
 
-Press OK
+Press OK.
 
 Right click the Immunophenotyping Guide link in the breadcrumb.
 
-Select "Open in a new Tab"
+Select "Open in a new Tab".
 
 Click the **Flow Immunophenotyping - Phenograph** link to open it.
 
@@ -50,11 +50,9 @@ The data step will open again.
 
 *Note: The data step should be already reset from our last exercise but press the reset button if it is visible.*
 
-Press the Reset button to allow us to modify settings.
-
 Downsampling is controlled by two types of filter.
 
-One reduces based on events and the other based on percentage.
+One reduces based to a chosen number of events, while the other to a percentage of the original dataset.
 
 Normally only one of these needs to be adjusted. Choose the filter that best represents your needs.
 
@@ -64,11 +62,9 @@ This is a whole number setting for the maximum events to be included from each f
 
 Files with less events than the setting will have all events included and files with more will be restricted.
 
-To modify.
+To modify this filter, click the chevron on the filters section and select **Downsampling # Events**.
 
-Click the chevron on the filters section and select **Downsampling # Events**.
-
-Change the value to **5000**
+Change the value to **5000**.
 
 ![Screenshot](images/2_downsampling_events.jpg)
 
@@ -84,10 +80,8 @@ If there are two FCS files. One with 1000 events and one with 10000 events and t
 
 Both files will be reduced to 800 events for calculation. The smaller file dictates the number calculated.
 
-To modify.
+To modify this filter, click the chevron on the filters section and select **Downsampling # Events**.
 
-Click the chevron on the filters section and select **Downsampling Percentage**.
-
-Change the value to **40**
+Change the value to **40**.
 
 ![Screenshot](images/2_downsampling_percentage.jpg)

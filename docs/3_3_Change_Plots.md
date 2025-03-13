@@ -20,11 +20,11 @@ In the settings tab.
 
 ![Screenshot](images/3_UMAP_plot.jpg)
 
-Change title to "UMAP Marker - Jet"
+Change title to "UMAP Marker - Jet".
 
-Change **xlab** to "UMAP A"
+Change **xlab** to "UMAP A".
 
-Change **ylab** to "UMAP B"
+Change **ylab** to "UMAP B".
 
 There are other settings for sizes, fonts and notation.
 
@@ -34,11 +34,11 @@ Select the *Palette** tab.
 
 Change the palette to "Jet".
 
-Press **Save**
+Press **Save**.
 
 ## Re-Run the Workflow
 
-Return to **Cluster Settings** workflow using the Breadcrumb
+Return to **Cluster Settings** workflow using the Breadcrumb.
 
 Press **Run All**
 

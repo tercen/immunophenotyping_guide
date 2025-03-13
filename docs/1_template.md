@@ -12,9 +12,9 @@ This chapter will use pre-prepared data (FCS files and an annotation file) to de
 
 ![Screenshot](images/1_New_Project.jpg)
 
-Click the New **Project** Button.
+Click the **+ New project** Button.
 
-Name it "Immunophenotyping Guide"
+Name it "Immunophenotyping Guide".
 
 Press OK.
 
@@ -22,13 +22,13 @@ Press OK.
 
 ![Screenshot](images/1_Begin Analysis.jpg)
 
-To begin an analysis click **New Workflow**
+To begin an analysis click **New Workflow**.
 
-Choose - **Flow Immunophenotyping - Phenograph**
+Choose - **Flow Immunophenotyping - Phenograph**.
 
 ![Screenshot](images/1_choose_template.jpg)
 
-Press Ok
+Press Ok.
 
 ## Run an analysis
 
@@ -39,11 +39,11 @@ It has sections to perform different functions.
 - Importing files.
 - Quality Control and Normalisation of Data.
 - Analysis algorithms for clustering and dimension reduction.
-- Reports
+- Reports.
 
 ![Screenshot](images/1_workflow.jpg)
 
-Press **Run All** to begin analysis
+Press **Run All** to begin analysis.
 
 Tercen will ask you to assign files to be analysed.
 
@@ -51,7 +51,7 @@ Sample files have been uploaded in advance to the Tercen Library.
 
 Use the *Main Library* and *flow cytometry* tags to narrow down the selection.
 
-Choose ***OMIP=-69 - FCS Files (10k Events).zip***
+Choose ***OMIP=-69 - FCS Files (10k Events).zip***.
 
 ![Screenshot](images/1_fcs_files.jpg)
 
@@ -59,13 +59,15 @@ Press OK.
 
 This Template uses an annotation file to describe treatment conditions.
 
-Use the Tags and search bar to find and select ***OMIP-069 - Sample Annotation.txt***
+Use the Tags and search bar to find and select ***OMIP-069 - Sample Annotation.txt***.
 
 ![Screenshot](images/1_annotation.jpg)
 
 Press OK.
 
-The workflow will being analysis and will show a spinning icon on the step is is processing as well as progress bars along the bottom of the screen.
+The workflow will begin analysis.
+
+It will show a spinning icon on each step as it is being processed.
 
 When a step has finished it will display a Green Dot.
 
@@ -110,8 +112,8 @@ Each analysis block in the workflow will generate multiple results.
 
 ### Export
 
-- Export Report as PDF
-- Export Report as Power Point Slides
-- Export FCS files with UMAP and Clusters
+- Export Report as PDF.
+- Export Report as Power Point Slides.
+- Export FCS files with UMAP and Clusters.
 
 *NB: Individual graphs or tables can be downloaded by clicking the link below them.*
